@@ -1,8 +1,8 @@
 test1
 =====
 
-   abc
- f
- fggfd
- fg
- m
+  * abc
+  * f
+  * fggfd
+  * fg
+  * m
