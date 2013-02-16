@@ -1,2 +1,2 @@
 gth git
-head
+head n
